@@ -11,7 +11,7 @@ A pricing analysis of every US domestic city-pair route from 2019 to 2026. It me
 
 ---
 
-## [Live tool: RouteIQ](LIVE_URL) · [30-second demo video](assets/routeiq-demo.mp4) · [Full findings](FINDINGS.md)
+## [Live tool: RouteIQ](https://routeiq-airline-pricing.vercel.app) · [30-second demo video](assets/routeiq-demo.mp4) · [Full findings](FINDINGS.md)
 
 ![RouteIQ Route Explorer](assets/explorer.jpg)
 
@@ -120,7 +120,7 @@ Exported the three result sets as static JSON and built **RouteIQ**, a React app
 
 ## The tool: RouteIQ
 
-**Use it live:** **[RouteIQ](LIVE_URL)**. Three screens, one for each business question, plus a method page. Screenshots below in case the link is ever down.
+**Use it live:** **[RouteIQ](https://routeiq-airline-pricing.vercel.app)**. Three screens, one for each business question, plus a method page. Screenshots below in case the link is ever down.
 
 **Route Explorer:** search any US route to see its fare against the low-cost benchmark, its top and cheapest airlines, and its revenue at risk.
 
